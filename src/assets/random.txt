@@ -1,0 +1,73 @@
+{/* <form className="display-div-item Tuesday inactive">
+                    <div>Tuesday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form>
+                <form className="display-div-item Wednesday inactive">
+                    <div>Wednesday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form>
+                <form className="Thursday display-div-item inactive">
+                    <div>Thursday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form>
+                <form className="Friday display-div-item inactive">
+                    <div>Friday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form>
+                <form className="Saturday display-div-item inactive">
+                    <div>Saturday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form>
+                <form className="Sunday display-div-item inactive">
+                    <div>Sunday</div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div>
+                        <input type="text" />
+                    </div>
+                    <div><button>Submit</button></div>
+                </form> */}
+
+                {/* <option value="select"></option>
+                            <option value="Monday" id="monday">Monday</option>
+                            <option value="Tuesday" id="tuesday">Tuesday</option>
+                            <option value="Wednesday" id="wednesday">Wednesday</option>
+                            <option value="Thursday" id="thursday">Thursday</option>
+                            <option value="Friday" id="friday">Friday</option>
+                            <option value="Saturday" id="saturday">Saturday</option>
+                            <option value="Sunday" id="sunday">Sunday</option> */}
+
+                            // options.map((option) => (
+                            //     <option key={option} value={option}>{option}</option>
+                            // ))

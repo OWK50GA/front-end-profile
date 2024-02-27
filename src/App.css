@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --deep-blue: #0046ff;
+  --light-blue: hsl(223.43,100%,79.41%);
+  --font-white: rgb(255, 255, 255);
+}
+
+body {
+  background-color: var(--deep-blue);
+  margin: auto;
+  padding: 0%;
+  color: var(--font-white);
+  font-family: 'Rubik', sans-serif;
+}
+
+.display-div {
+  max-width: 60%;
+  margin: 5% auto;
+}
+
+.display-title {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.display-div-body {
+  display: block;
+}
+
+.display-div-item{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+
+.display-div-item div {
+  width: 20%;
+  background-color: var(--light-blue);
+  font-size: 25px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  align-items: center;
+}
+
+.display-div-item div input, .display-div-item div select, .display-div-item div button {
+  border: 1px solid var(--font-white);
+  border-radius: 3%;
+  background-color: var(--light-blue);
+  width: 90%;
+  font-size: 25px;
+  color: var(--font-white);
+}
+
+
+a {
+  background-color: var(--light-blue);
+  text-decoration: none;
+  padding: 20px;
+  color: var(--font-white);
+  justify-self: center;
+}

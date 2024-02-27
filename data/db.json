@@ -1,0 +1,88 @@
+{
+  "Days": [
+    {
+      "id": "0190",
+      "day": "Monday",
+      "morningPeriod": {
+        "start": "8am",
+        "stop": "12pm"
+      },
+      "eveningPeriod": {
+        "start": "2pm",
+        "stop": "6pm"
+      }
+    },
+    {
+      "id": "9385",
+      "day": "Tuesday",
+      "morningPeriod": {
+        "start": "jdjd",
+        "stop": "kkdkdkd"
+      },
+      "eveningPeriod": {
+        "start": "kksks",
+        "stop": "llslsa"
+      }
+    },
+    {
+      "id": "8935",
+      "day": "Wednesday",
+      "morningPeriod": {
+        "start": "4AM",
+        "stop": "12PM"
+      },
+      "eveningPeriod": {
+        "start": "2PM",
+        "stop": "6PM"
+      }
+    },
+    {
+      "id": "f5b2",
+      "day": "Thursday",
+      "morningPeriod": {
+        "start": "4:30AM",
+        "stop": "8:00AM"
+      },
+      "eveningPeriod": {
+        "start": "12:00PM",
+        "stop": "6:00PM"
+      }
+    },
+    {
+      "id": "f822",
+      "day": "Friday",
+      "morningPeriod": {
+        "start": "8:00PM",
+        "stop": "12:00PM"
+      },
+      "eveningPeriod": {
+        "start": "2:00PM",
+        "stop": "8:00AM"
+      }
+    },
+    {
+      "id": "52fe",
+      "day": "Saturday",
+      "morningPeriod": {
+        "start": "8AM",
+        "stop": "12PM"
+      },
+      "eveningPeriod": {
+        "start": "1:30PM",
+        "stop": "5:30PM"
+      }
+    },
+    {
+      "id": "eb39",
+      "day": "Sunday",
+      "morningPeriod": {
+        "start": "7:00AM",
+        "stop": "11:00AM"
+      },
+      "eveningPeriod": {
+        "start": "1:00PM",
+        "stop": "6:00PM"
+      }
+    }
+  ]
+}
