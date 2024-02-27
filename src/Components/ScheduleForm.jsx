@@ -46,6 +46,7 @@ const ScheduleForm = ({getData}) => {
         <div className="display-div">
             <h2 className="display-title">Working Houres</h2>
             <div className="display-div-body">
+                <div>{options[1]}</div>
                 <div className="display-div-item">
                     <div>DAY(Mon - Sun)</div>
                     <div>
