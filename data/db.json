@@ -1,7 +1,7 @@
 {
   "Days": [
     {
-      "id": "0190",
+      "id": "6c76",
       "day": "Monday",
       "morningPeriod": {
         "start": "8am",
@@ -13,75 +13,75 @@
       }
     },
     {
-      "id": "9385",
+      "id": "ae06",
       "day": "Tuesday",
       "morningPeriod": {
-        "start": "jdjd",
-        "stop": "kkdkdkd"
+        "start": "8am",
+        "stop": "12pm"
       },
       "eveningPeriod": {
-        "start": "kksks",
-        "stop": "llslsa"
+        "start": "2pm",
+        "stop": "5pm"
       }
     },
     {
-      "id": "8935",
+      "id": "5589",
       "day": "Wednesday",
       "morningPeriod": {
-        "start": "4AM",
-        "stop": "12PM"
+        "start": "6am",
+        "stop": "11pm"
       },
       "eveningPeriod": {
-        "start": "2PM",
-        "stop": "6PM"
+        "start": "1pm",
+        "stop": "6pm"
       }
     },
     {
-      "id": "f5b2",
+      "id": "0f3d",
       "day": "Thursday",
       "morningPeriod": {
-        "start": "4:30AM",
-        "stop": "8:00AM"
+        "start": "8am",
+        "stop": "12pm"
       },
       "eveningPeriod": {
-        "start": "12:00PM",
-        "stop": "6:00PM"
+        "start": "1pm",
+        "stop": "5pm"
       }
     },
     {
-      "id": "f822",
+      "id": "84e9",
       "day": "Friday",
       "morningPeriod": {
-        "start": "8:00PM",
-        "stop": "12:00PM"
+        "start": "4am",
+        "stop": "11am"
       },
       "eveningPeriod": {
-        "start": "2:00PM",
-        "stop": "8:00AM"
+        "start": "3pm",
+        "stop": "3pm"
       }
     },
     {
-      "id": "52fe",
+      "id": "cd5b",
       "day": "Saturday",
       "morningPeriod": {
-        "start": "8AM",
-        "stop": "12PM"
+        "start": "8am",
+        "stop": "12am"
       },
       "eveningPeriod": {
-        "start": "1:30PM",
-        "stop": "5:30PM"
+        "start": "Closed",
+        "stop": "closed"
       }
     },
     {
-      "id": "eb39",
+      "id": "e26d",
       "day": "Sunday",
       "morningPeriod": {
-        "start": "7:00AM",
-        "stop": "11:00AM"
+        "start": "8am",
+        "stop": "12pm"
       },
       "eveningPeriod": {
-        "start": "1:00PM",
-        "stop": "6:00PM"
+        "start": "closed",
+        "stop": "closed"
       }
     }
   ]

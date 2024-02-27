@@ -15,8 +15,8 @@ function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
       <>
-        <Route path="/" element={<ScheduleForm/>}></Route>
-        <Route path="schedule" element={<ScheduleList/>}/>
+        <Route path="schedule-form" element={<ScheduleForm/>}></Route>
+        <Route path="/" element={<ScheduleList/>}/>
       </>
     )
   )

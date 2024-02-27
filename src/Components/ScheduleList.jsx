@@ -53,7 +53,7 @@ const ScheduleList = () => {
                             <div><button onClick={() => handleDelete(item.id)}>Delete</button></div>
                         </div>
                     ))}
-                    <Link to="/">Go Home</Link>
+                    <Link to="schedule-form">Create Schedule</Link>
                 </div>    
             </div>
         </>

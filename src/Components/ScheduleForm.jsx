@@ -85,7 +85,7 @@ const ScheduleForm = ({getData}) => {
                 </form>
             </div>
             
-            {<Link to="schedule">Done</Link>}
+            {options.length > 1? null: <Link to="/">Done</Link>}
         </div>
      );
 }
